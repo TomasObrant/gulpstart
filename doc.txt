@@ -1,0 +1,9 @@
+npm i --global gulp-cli        -- глобальная установка галпа
+
+npm init                       -- при создании папки (package.json)
+
+npm i --save-dev gulp          -- локальная установка галпа  -dev(пишет версию в package.json)
+
+
+npm i                          -- все установить
+ 
